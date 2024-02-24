@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708360331 source:e:\embedded_system_online_diploma\unit_2_c_programming\1_c_basicsassignments\ex9_c_program_to_check_vowel_consonant\main.c
+	<stdio.h>
+	<stdlib.h>
+

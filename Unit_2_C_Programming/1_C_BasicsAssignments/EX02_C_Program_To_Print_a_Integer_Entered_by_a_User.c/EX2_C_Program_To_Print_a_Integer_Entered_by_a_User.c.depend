@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708353495 source:e:\embedded_system_online_diploma\unit_2_c_programming\1_c_basicsassignments\ex2_c_program_to_print_a_integer_entered_by_a_user.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

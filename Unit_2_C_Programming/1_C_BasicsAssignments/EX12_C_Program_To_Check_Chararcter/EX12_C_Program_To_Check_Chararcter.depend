@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708788408 source:e:\embedded_system_online_diploma\unit_2_c_programming\1_c_basicsassignments\ex12_c_program_to_check_chararcter\main.c
+	<stdio.h>
+	<stdlib.h>
+
