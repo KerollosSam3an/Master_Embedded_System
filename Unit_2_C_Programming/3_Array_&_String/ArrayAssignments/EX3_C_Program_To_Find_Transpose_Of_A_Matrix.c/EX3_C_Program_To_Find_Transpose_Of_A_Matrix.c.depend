@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708853640 source:e:\embedded_system_online_diploma\unit_2_c_programming\3_array_&_string\arrayassignments\ex3_c_program_to_find_transpose_of_a_matrix.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
