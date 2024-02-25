@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708860489 source:e:\embedded_system_online_diploma\unit_2_c_programming\3_array_&_string\stringassignments\ex3_c_program_to_reverse_string_without_using_library_function.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
