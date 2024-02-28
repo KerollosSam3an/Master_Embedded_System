@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709145760 source:e:\embedded_system_online_diploma\unit_2_c_programming\4_functions\assignments\ex2_c_program_to_calculate_factorial_of_a_number_using_recursion.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
